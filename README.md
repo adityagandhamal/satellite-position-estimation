@@ -12,7 +12,7 @@
     - LSTM results
       -![Screenshot (856)](https://user-images.githubusercontent.com/61016383/148768262-bc465793-9f91-4e31-92db-b2d584c9960c.png)
     - SARIMAX results
-      -![Screenshot (858)](https://user-images.githubusercontent.com/61016383/148770784-603b9615-cfde-4beb-bcc8-5d2302b74bc3.png)
+      -![Screenshot (859)](https://user-images.githubusercontent.com/61016383/148772471-f83d9074-d19c-4936-b033-c1527fe2956f.png)
 
 
 # Libraries Used:
