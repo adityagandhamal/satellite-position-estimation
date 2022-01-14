@@ -9,6 +9,8 @@ https://user-images.githubusercontent.com/61016383/149488989-9c8c1ff4-a706-4e6c-
 - The important issue here is the reliable and accurate orbit tracking of satellites to prevent a catastrophic event like a Kessler Syndrom.
 
 - This project is an experiment on predicting and forecasting the position of a satellite orbiting earth using Deep Learning (LSTM).
+
+- The LSTM model is trained on the data recorded over 18days and forecasts the trajectory for the next seven days.
  
 The Satellite Trajectory
 
