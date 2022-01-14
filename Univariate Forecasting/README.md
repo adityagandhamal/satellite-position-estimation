@@ -2,7 +2,7 @@
 
 - Here the task of predicting and forecasting the position of a satellite is done by using data of only x-coordinates. 
 
-- The LSTM predictc the x-coordinates of a satellite and SARIMAX forecasts the future postions.
+- The LSTM predicts the x-coordinates of a satellite and SARIMAX forecasts the future postions.
 
 - Below are the conclusions:
 
