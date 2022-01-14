@@ -4,26 +4,21 @@
 
 - Here's a snippet depicting the scale of the problem (Credits to [LeoLabs](https://leolabs.space)):
 
-![Untitled (1)](https://user-images.githubusercontent.com/61016383/148759217-f5cd864b-0b15-4f69-861e-46b4011c60a0.gif)
+https://user-images.githubusercontent.com/61016383/149488989-9c8c1ff4-a706-4e6c-8bc1-09574713bf3b.mp4
 
 - The important issue here is the reliable and accurate orbit tracking of satellites to prevent a catastrophic event like a Kessler Syndrom.
 
-- This project is an experiment on predicting and forecasting the position of a satellite orbiting earth using Deep Learning (LSTM) and standard statistical approach (SARIMAX).
+- This project is an experiment on predicting and forecasting the position of a satellite orbiting earth using Deep Learning (LSTM).
+ 
+The Satellite Trajectory
 
-- This is a Time Series Forecasting problem where the LSTM is used predict the x-coordinate of a satellite and SARIMAX forecasts the future postions.
+https://user-images.githubusercontent.com/61016383/149487305-6f9e43d6-35f5-4bc0-a4e0-f1e7c3c03895.mp4
 
-- Below are the conclusions:
+Forecasted Trajectory
 
-    - The data
-      -![Screenshot (857)](https://user-images.githubusercontent.com/61016383/148768188-d9e9a20d-d15c-4dd0-9936-829ab6ef2b0c.png)
-      
-    - LSTM results
-      -![Screenshot (856)](https://user-images.githubusercontent.com/61016383/148768262-bc465793-9f91-4e31-92db-b2d584c9960c.png)
-      
-    - SARIMAX results
-      -![Screenshot (859)](https://user-images.githubusercontent.com/61016383/148772471-f83d9074-d19c-4936-b033-c1527fe2956f.png)
-
-
+https://user-images.githubusercontent.com/61016383/149499119-84a1d2d9-42d4-4d2a-ad47-a475bf6598d7.mp4
+    
+    
 # Libraries Used:
 - Tensorflow 2.x
 - Keras
