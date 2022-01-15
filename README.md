@@ -6,7 +6,7 @@
 
 https://user-images.githubusercontent.com/61016383/149488989-9c8c1ff4-a706-4e6c-8bc1-09574713bf3b.mp4
 
-- The important issue here is the reliable and accurate orbit tracking of satellites to prevent a catastrophic event like a Kessler Syndrom.
+- The important issue here is the reliable and accurate orbit tracking of satellites to prevent a catastrophic event like the Kessler Syndrome.
 
 - This project is an experiment on predicting and forecasting the position of a satellite orbiting earth using Deep Learning (LSTM).
 
